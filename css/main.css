@@ -1,0 +1,32 @@
+.body{
+    border: solid 1px blue;
+    height: 500px
+}
+.loginWrap,.registerWrap{
+    margin-top: 100px;
+}
+.gridStyle{
+    margin-top: 20px;
+    width: 500px;
+    height: 400px;
+   font-size: 16px;
+}
+.addScoreWrap{
+    margin-top: 20px;
+}
+.addScoreWrap input{
+    width: 100px;
+    height: 30px;
+}
+.wrongTip{
+    color:red;
+}
+.illegalTip {
+    border: solid 2px red;
+}
+.successTip{
+    color: blue;
+}
+.idConflictTip{
+    color: darkred;
+}
